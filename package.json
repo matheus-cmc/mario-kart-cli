@@ -1,0 +1,11 @@
+{
+  "name": "mario-kart-dio",
+  "version": "1.0.0",
+  "description": "Simulador de Corridas inspirado em Mario Kart (Desafio DIO - Node.js)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Matheus Carvalho",
+  "license": "MIT"
+}
