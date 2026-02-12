@@ -127,5 +127,5 @@ node index.js
 **Matheus Carvalho de Medeiros Correia**  
 Desenvolvedor em formação focado em JavaScript, Node.js e desenvolvimento full stack.
 
-LinkedIn:  
-https://www.linkedin.com/in/matheus-carvalho-de-medeiros-correia/
+[LinkedIn](https://www.linkedin.com/in/matheus-carvalho-a79636322/)
+
